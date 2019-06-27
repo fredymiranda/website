@@ -6,3 +6,6 @@ Incluyendo un nuevo cambio en el branch update
 
 ## Cambio nuevo
 Nuevo texto
+
+## Cambio en master
+Cambio realizado en branch master
